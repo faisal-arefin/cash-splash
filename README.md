@@ -1,7 +1,7 @@
 # Cash Splash
 
 ## About
-Cash Splash is a simple web application that shows users new financial advice every time they refresh the page.
+Cash Splash is a fun little web app that gives you financial advice every time you refresh the page.
 
 ## Repository Structure
 1. advice_list.txt: This file contains the financial advice used in the project, each per line.
@@ -14,4 +14,4 @@ Cash Splash is a simple web application that shows users new financial advice ev
 To use this application, clone the repository on your computer and open the `index.html` file in a web browser.
 
 ## Note
-The advice presented is based on data collected as of December 31, 2023.
+The advice presented is based on data collected as of **December 31, 2023**. Please use your own discretion.
